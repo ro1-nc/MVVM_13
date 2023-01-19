@@ -1,0 +1,9 @@
+﻿<Application x:Class="Mvvm_WPF_13.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Mvvm_WPF_13"
+             StartupUri="View/Employee.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

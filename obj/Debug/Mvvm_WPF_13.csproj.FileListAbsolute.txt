@@ -1,0 +1,16 @@
+D:\C# Assignments\Mvvm_WPF_13\bin\Debug\Mvvm_WPF_13.exe.config
+D:\C# Assignments\Mvvm_WPF_13\bin\Debug\Mvvm_WPF_13.exe
+D:\C# Assignments\Mvvm_WPF_13\bin\Debug\Mvvm_WPF_13.pdb
+D:\C# Assignments\Mvvm_WPF_13\obj\Debug\Mvvm_WPF_13.csprojAssemblyReference.cache
+D:\C# Assignments\Mvvm_WPF_13\obj\Debug\View\Employee.g.cs
+D:\C# Assignments\Mvvm_WPF_13\obj\Debug\App.g.cs
+D:\C# Assignments\Mvvm_WPF_13\obj\Debug\Mvvm_WPF_13_MarkupCompile.cache
+D:\C# Assignments\Mvvm_WPF_13\obj\Debug\Mvvm_WPF_13_MarkupCompile.lref
+D:\C# Assignments\Mvvm_WPF_13\obj\Debug\View\Employee.baml
+D:\C# Assignments\Mvvm_WPF_13\obj\Debug\Mvvm_WPF_13.g.resources
+D:\C# Assignments\Mvvm_WPF_13\obj\Debug\Mvvm_WPF_13.Properties.Resources.resources
+D:\C# Assignments\Mvvm_WPF_13\obj\Debug\Mvvm_WPF_13.csproj.GenerateResource.cache
+D:\C# Assignments\Mvvm_WPF_13\obj\Debug\Mvvm_WPF_13.csproj.CoreCompileInputs.cache
+D:\C# Assignments\Mvvm_WPF_13\obj\Debug\Mvvm_WPF_13.exe
+D:\C# Assignments\Mvvm_WPF_13\obj\Debug\Mvvm_WPF_13.pdb
+D:\C# Assignments\Mvvm_WPF_13\obj\Debug\GeneratedInternalTypeHelper.g.cs
